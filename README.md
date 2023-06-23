@@ -1,5 +1,5 @@
-# ANTM-Investigations
-Refined Investigations on Aligned Neural Topic Models: Interpretability, Topic Alignment, and Contextualized Topic Representation
+# Refined Investigations on Aligned Neural Topic Models
+On Interpretability, Topic Alignment, and Contextualized Topic Representation
 
 Abstract of the paper:
 
